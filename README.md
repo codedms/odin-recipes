@@ -1,2 +1,4 @@
 # odin-recipes
 5/24 - This is my first project that I'm trying to complete through Odin Project. I have been tasked with making a website using the information taught in.
+
+5/28 - Oh boy! I think I'm done. In hindsight, this shouldn't have taken four days. But I had a small vacation right after the start of the project and came back and had forgot most of the stuff I had learned so I decided start over from scratch. That being said, I'm fairly confindent at least in my ability to add, commit, and push things to github now. It feels good knowing I am actually learning things. I can't wait to publish this to Odin Project now. 
